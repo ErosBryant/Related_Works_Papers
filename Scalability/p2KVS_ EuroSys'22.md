@@ -121,7 +121,7 @@
 
 ![image](https://user-images.githubusercontent.com/86946575/201605202-f1cb48c3-f1d2-4db0-bc4f-e49792deab2b.png)
 
-#### `处理时间`
+#### 处理时间
 - 下图展示了不同线程在单个实例下的延迟分解，写流程分成五个步骤，WAL，Memtable，WAL Lock，Mmetable Lock and Others.
     - WAL 代表写前日志的执行时间，包括 I/O 时间和其他（编码日志记录，计算校验和，以及添加到写日志的 memory buffer）
     - Memtable 代表插入键值对到 Memtable，超过 90% 都是更新跳表索引信息
