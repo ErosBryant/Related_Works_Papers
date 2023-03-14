@@ -11,6 +11,7 @@ Collect some books and papers about distributed sysntem
 
 [3.WB-Tree:Design of a Write-Optimized Data Store](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/bde2f7c93b93bbc998171c8203d533af1e7b1f19/Scalability/WB-Tree.pdf)
 
+[4.LUDA: Boost LSM Key Value Store Compactions with GPUs](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/cbc7a0725342181503304e253020a8047733c8ba/Scalability/LUDA.pdf)
 
 
 ## `Compaction`
