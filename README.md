@@ -18,3 +18,6 @@ Collect some books and papers about distributed sysntem
 [1.WOKV_A_write-optimized_key-value_store.pdf](https://github.com/ErosBryant/LSMT-DB-Related-Works/blob/358db4ffa3bf7ae29548a0f46438b2cec53acf9a/Compaction/WOKV_A_write-optimized_key-value_store.pdf)
 
 [2.On Log-Structured Merge for Solid-State Drives](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/e6c49af37553cafa934d9ffc886802f71b93b19e/Compaction/On_Log-Structured_Merge_for_Solid-State_Drives.pdf)
+
+## `Hot/Cold`
+[1.TRIAD: Creating Synergies Between Memory,Disk and Log in Log Structured Key-Value Stores](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/abb3b05e20f93b9a93555447e6f9b1c28ea017ca/HotClod/TRIAD.pdf)
