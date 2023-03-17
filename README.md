@@ -25,4 +25,4 @@ Collect some books and papers about distributed sysntem
 
 ## `K/V size`
 [1. LSM-trie: An LSM-tree-based Ultra-Large Key-Value 
-Store for Small Data ]()
+Store for Small Data ](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/82f5ae6a6065035f13fb038d4c910efd270cfd69/Small%20kv%20size/Lsm-trie.pdf)
