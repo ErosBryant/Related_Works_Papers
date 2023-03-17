@@ -21,3 +21,8 @@ Collect some books and papers about distributed sysntem
 
 ## `Hot/Cold`
 [1.TRIAD: Creating Synergies Between Memory,Disk and Log in Log Structured Key-Value Stores](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/abb3b05e20f93b9a93555447e6f9b1c28ea017ca/HotClod/TRIAD.pdf)
+
+
+## `K/V size`
+[1. LSM-trie: An LSM-tree-based Ultra-Large Key-Value 
+Store for Small Data ]()
