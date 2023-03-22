@@ -19,6 +19,13 @@ Collect some books and papers about distributed sysntem
 
 [2.On Log-Structured Merge for Solid-State Drives](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/e6c49af37553cafa934d9ffc886802f71b93b19e/Compaction/On_Log-Structured_Merge_for_Solid-State_Drives.pdf)
 
+[3. Reducing Write Amplification of LSM-Tree with Block-Grained Compaction](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/f6b16554ecd80f81dea7100ee422bf8e094ab472/Compaction/Reducing%20Write%20Amplification%20of%20LSM-Tree%20with%20Block-Grained%20Compaction.pdf)
+
+[4.Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/f6b16554ecd80f81dea7100ee422bf8e094ab472/Compaction/dostoevskykv.pdf)
+
+[5.SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/f6b16554ecd80f81dea7100ee422bf8e094ab472/Compaction/SILK.pdf)
+
+
 ## `Hot/Cold`
 [1.TRIAD: Creating Synergies Between Memory,Disk and Log in Log Structured Key-Value Stores](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/abb3b05e20f93b9a93555447e6f9b1c28ea017ca/HotClod/TRIAD.pdf)
 - [presentation](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/2f69b66f562bd7d3438221c4d9b64906394efe07/HotClod/LSM-trie_%20An%20LSM-tree-based%20Ultra-Large%20Key-Value%20Store%20for%20Small%20Data%20%E8%AF%B4%E6%98%8E.pdf)
