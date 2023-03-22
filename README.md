@@ -23,7 +23,6 @@ Collect some books and papers about distributed sysntem
 
 [4.Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/f6b16554ecd80f81dea7100ee422bf8e094ab472/Compaction/dostoevskykv.pdf)
 
-[5.SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/f6b16554ecd80f81dea7100ee422bf8e094ab472/Compaction/SILK.pdf)
 
 
 ## `Hot/Cold`
@@ -34,3 +33,8 @@ Collect some books and papers about distributed sysntem
 ## `K/V size`
 [1. LSM-trie: An LSM-tree-based Ultra-Large Key-Value 
 Store for Small Data ](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/82f5ae6a6065035f13fb038d4c910efd270cfd69/Small%20kv%20size/Lsm-trie.pdf)
+
+
+## `write stall`
+
+[2.SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/f6b16554ecd80f81dea7100ee422bf8e094ab472/Compaction/SILK.pdf)
