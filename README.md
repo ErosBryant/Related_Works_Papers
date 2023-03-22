@@ -37,4 +37,4 @@ Store for Small Data ](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob
 
 ## `write stall`
 
-[2.SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/f6b16554ecd80f81dea7100ee422bf8e094ab472/Compaction/SILK.pdf)
+[2.SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores]
