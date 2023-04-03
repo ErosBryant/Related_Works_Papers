@@ -13,6 +13,8 @@ Collect some books and papers about distributed sysntem
 
 [4.LUDA: Boost LSM Key Value Store Compactions with GPUs](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/cbc7a0725342181503304e253020a8047733c8ba/Scalability/LUDA.pdf)
 
+## `NVM`
+[1. Redesigning LSMs for Nonvolatile Memory with NoveLSM](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/20e8061994431c366565e514be976d69ef00cfbf/NVM/Redesigning%20LSMs%20for%20Nonvolatile%20Memory.pdf)
 
 ## `Compaction`
 > [整理一下Compaction论文的重点](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/7ab0b657365953fb5a8cd688128a2598b537a45b/Compaction/README.md)
