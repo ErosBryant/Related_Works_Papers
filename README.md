@@ -15,6 +15,7 @@ Collect some books and papers about distributed sysntem
 
 ## `NVM`
 [1. Redesigning LSMs for Nonvolatile Memory with NoveLSM](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/20e8061994431c366565e514be976d69ef00cfbf/NVM/Redesigning%20LSMs%20for%20Nonvolatile%20Memory.pdf)
+
 [2.Revisiting Log-Structured Merging for KV Stores in Hybrid ](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/b1934aa80e981c7543f73524660284ec911f2b9a/NVM/Revisiting%20Log-Structured%20Merging%20for%20KV%20Stores%20in%20Hybrid.pdf)
 
 ## `Compaction`
