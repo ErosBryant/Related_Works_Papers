@@ -39,6 +39,7 @@ Collect some books and papers about distributed sysntem
 [3. Blizzard: Adding True Persistence to Main Memory Data Structures ](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/1706a7a35cadfc20cfde6bda0fa489f253cb3c63/NVMe/Blizzard.pdf)
 
 [4.Revisiting Log-Structured Merging for KV Stores in Hybrid ](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/b1934aa80e981c7543f73524660284ec911f2b9a/NVM/Revisiting%20Log-Structured%20Merging%20for%20KV%20Stores%20in%20Hybrid.pdf)
+
     - ASPLOS 2023
 
 ## `Compaction`
