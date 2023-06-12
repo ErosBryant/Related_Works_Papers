@@ -41,6 +41,12 @@ Collect some books and papers about distributed sysntem
 [4.Revisiting Log-Structured Merging for KV Stores in Hybrid ](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/b1934aa80e981c7543f73524660284ec911f2b9a/NVM/Revisiting%20Log-Structured%20Merging%20for%20KV%20Stores%20in%20Hybrid.pdf)
    - ASPLOS 2023
 
+[5. ChameleonDB: a Key-value Store for Optane Persistent Memory](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/de2f745862325c98bf4853843be883c7a0b333b4/NVMe/ChameleonDB.pdf)
+   - EuroSys 21
+
+[ 6. Prism: Optimizing Key-Value Store for Modern Heterogeneous Storage Devices]( https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/de2f745862325c98bf4853843be883c7a0b333b4/NVMe/prism-song-asplos23.pdf)
+   - ASPLOS 2023
+
 ## `Compaction`
 > [整理一下Compaction论文的重点](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/7ab0b657365953fb5a8cd688128a2598b537a45b/Compaction/README.md)
 
