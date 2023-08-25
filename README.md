@@ -1,6 +1,9 @@
 ##  `Related-Works`
 > 整理有关Lsm-Tree的论文和研究方向
 
+[Log_Structured_File_System](Log-Structured_File_System/146941.146943.pdf)
+   - [organize - Y.J ZHU](Log-Structured_File_System/Log-Sturctured_File_System.pdf)
+
 Collect some books and papers about distributed sysntem
 
 
