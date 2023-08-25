@@ -92,4 +92,6 @@ Store for Small Data ](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob
 
 
 ## `AI`
-[]
+[1. Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines ](AI_LSM-T/p1976-yang.pdf)
+- VLDB 2020
+- [organize - Y.J ZHU](AI_LSM-T/Leaper.pdf)
