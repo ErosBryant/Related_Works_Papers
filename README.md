@@ -13,7 +13,7 @@ Log_Structured_File_System
 2. An efficient memory-mapped key-value store for flash storage
    - ACM 18
 3. MatrixKV: Reducing Write Stalls and Write Amplification in LSM-tree Based KV Stores with Matrix Container in NVM
-   - USENIX  ATC 20
+   - ATC 20
 4. ChameleonDB: a Key-value Store for Optane Persistent Memory
    - EuroSys 21
 5. Blizzard: Adding True Persistence to Main Memory Data Structures
@@ -23,7 +23,7 @@ Log_Structured_File_System
 7. Revisiting Log-Structured Merging for KV Stores in Hybrid Memory Systems
    - ASPLOS 23
 8. Revisiting Secondary Indexing in LSM-based Storage Systems with Persistent Memory
-   - USENIX ATC 23
+   - ATC 23
 9. ThanosKV: A Holistic Approach to Utilize NVM for LSM-tree based Key-Value Stores
    - Bigcomp 24  
 
@@ -40,7 +40,7 @@ Log_Structured_File_System
 
 
 ## `Compaction`
-> [organize (cn.version) - GX Zhao :整理Compaction论文的重点](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/7ab0b657365953fb5a8cd688128a2598b537a45b/Compaction/README.md)
+> [organize (cn.version) - G.X Zhao: 整理Compaction论文的重点](https://github.com/ErosBryant/LSM-T_DB_Related_Works/blob/7ab0b657365953fb5a8cd688128a2598b537a45b/Compaction/README.md)
 
 1. On Log-Structured Merge for Solid-State Drives
    - ICDE 17
@@ -71,15 +71,15 @@ Log_Structured_File_System
 
 ## `Hot/Cold`
 1.TRIAD: Creating Synergies Between Memory,Disk and Log in Log Structured Key-Value 
-   - USENIX ATC 17
+   - ATC 17
 
 ## `K/V size`
 1. LSM-trie: An LSM-tree-based Ultra-Large Key-Value Store for Small Data 
-   - USENIX ATC 15
+   - ATC 15
 
 ## `Write stall`
 1.SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores
-  - USENIX ATC 19
+  - ATC 19
 
 
 ## `AI & Learned index`
