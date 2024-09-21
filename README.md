@@ -34,6 +34,7 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 
 ### `Compaction`
 
+* Monkey: Optimal Navigable Key-Value Store (SIGMOD 17)
 * On Log-Structured Merge for Solid-State Drives (ICDE 17)
 * WOKV: A Write-Optimized Key-Value Store (ICCCBDA 18)
 * Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging (SIGMOD 18)
