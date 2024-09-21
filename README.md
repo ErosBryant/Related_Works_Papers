@@ -68,6 +68,7 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 ### `Write stall`
 
 * SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores (ATC 19)
+* ADOC: Automatically Harmonizing Dataflow Between Components in Log-Structured Key-Value Stores for Improved Performance (FAST 23)
 
 ---
 
