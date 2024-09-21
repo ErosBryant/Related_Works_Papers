@@ -1,5 +1,9 @@
-##  `Related-Works`
-> 整理有关Lsm-Tree的论文和研究方向
+# [Paper List] AI4DB / ML4DB / LSM-tree
+
+
+Welcome to PR!
+
+New papers keep coming, remember to **Watch** this repo if you are interested in this topic.
 
 * Log_Structured_File_System
    - [organize (kr.version)- Y.J ZHU](Log-Structured_File_System/Log-Sturctured_File_System_zhengli.pdf)
@@ -66,7 +70,7 @@
 
 ---
 
-### `AI & Learned index`
+### `Learned index & ML4DB`
 
 * Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree Based Storage Engines (VLDB 20)  
    - [organize (kr.version) - Y.J ZHU](AI_LSM-T/Leaper.pdf)
