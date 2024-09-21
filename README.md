@@ -5,8 +5,15 @@ Welcome to PR!
 
 New papers keep coming, remember to **Watch** this repo if you are interested in this topic.
 
-* Log_Structured_File_System
-   - [organize (kr.version)- Y.J ZHU](Log-Structured_File_System/Log-Sturctured_File_System_zhengli.pdf)
+
+### `Key-Value separation`
+
+* WiscKey: Separating Keys from Values in SSD-conscious Storage (FAST 16)
+* HashKV: Enabling Efficient Updates in KV Storage via Hashing (ATC 18)
+* Differentiated Key-Value Storage Management for Balanced I/O Performance (ATC 21)
+* Fencekv: Enabling efficient range query for key-value separation (IEEE Transactions on Parallel and Distributed Systems 22)
+
+---
 
 ### `NVM`
 
@@ -20,15 +27,6 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 * Revisiting Log-Structured Merging for KV Stores in Hybrid Memory Systems (ASPLOS 23)
 * Revisiting Secondary Indexing in LSM-based Storage Systems with Persistent Memory (ATC 23)
 * ThanosKV: A Holistic Approach to Utilize NVM for LSM-tree based Key-Value Stores (Bigcomp 24)
-
----
-
-### `Key-Value separation`
-
-* WiscKey: Separating Keys from Values in SSD-conscious Storage (FAST 16)
-* HashKV: Enabling Efficient Updates in KV Storage via Hashing (ATC 18)
-* Differentiated Key-Value Storage Management for Balanced I/O Performance (ATC 21)
-* Fencekv: Enabling efficient range query for key-value separation (IEEE Transactions on Parallel and Distributed Systems 22)
 
 ---
 
