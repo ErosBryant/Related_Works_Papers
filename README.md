@@ -83,5 +83,9 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 * TreeLine: An Update-In-Place Key-Value Store for Modern Storage (VLDB 23)
 * LearnedKV: Integrating LSM and Learned Index for Superior Performance on SSD (arxiv 24)
 
+---
 
+### `Distributed`
+
+* DEPART: Replica Decoupling for Distributed Key-Value Storage (FAST 22)
 
