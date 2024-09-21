@@ -57,6 +57,7 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 ### `Hot/Cold`
 
 * TRIAD: Creating Synergies Between Memory, Disk and Log in Log Structured Key-Value (ATC 17)
+* Tiered Storage in Modern Key-Value Stores: Performance, Storage-Efficiency, and Cost-Efficiency Considerations (Bigcomp 24)
 
 ---
 
