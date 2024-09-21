@@ -48,8 +48,10 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
    - [organize (cn.version) - G.X Zhao](Scalability/sosp19-kvell.md)
 * WB-Tree: Design of a Write-Optimized Data Store (VLDB 19)
 * LUDA: Boost LSM Key Value Store Compactions with GPUs (VLDB 20)
+* REMIX: Efficient Range Query for LSM-trees (FAST 21)
 * p2KVS: A Portable 2-Dimensional Parallelizing Framework to Improve Scalability of Key-Value Stores (EuroSys 22)  
    - [organize (cn.version) - G.X Zhao](Scalability/p2KVS_EuroSys'22.md)
+
 
 ---
 
