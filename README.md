@@ -86,6 +86,6 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 ---
 
 ### `Distributed`
-
+* Dynamo: Amazon’s Highly Available Key-value Store (SOSP 07)
 * DEPART: Replica Decoupling for Distributed Key-Value Storage (FAST 22)
 
