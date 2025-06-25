@@ -64,6 +64,12 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 
 ---
 
+### `Read-Modify-Write`
+
+* Enhancing LSM-Tree Key-Value Stores for Read-Modify-Writes via Key-Delta Separation (ICDE 24)
+
+---
+
 ### `K/V size`
 
 * LSM-trie: An LSM-tree-based Ultra-Large Key-Value Store for Small Data (ATC 15)
