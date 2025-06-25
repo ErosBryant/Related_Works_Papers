@@ -70,6 +70,12 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 
 ---
 
+### `Level size`
+
+* How to Grow an LSM-tree? Towards Bridging the Gap Between Theory and Practice (Proceedings of the ACM on Management of Data 2025)
+
+---
+
 ### `Write stall`
 
 * SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores (ATC 19)
